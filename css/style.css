@@ -43,8 +43,9 @@ h6 {
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
-  color: #7d46cb;
+  color:#7d46cb ;
 }
+
 
 .main-page {
   margin-top: 70px;
@@ -665,7 +666,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #about:before {
   content: "";
-  background: rgba(125, 70, 203, 0.2);
+  background: rgba(13, 20, 41, 0.8);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -917,7 +918,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #venue .venue-info:before {
   content: "";
-  background: rgba(125, 70, 203, 0.3);
+  background: rgba(13, 20, 41, 0.8);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -1076,7 +1077,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #sponsors .sponsor-logo {
-  padding: 30px;
+  padding: 40px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1089,7 +1090,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-right: 1px solid #e0e5fa;
   border-bottom: 1px solid #e0e5fa;
   overflow: hidden;
-  background: rgba(255, 255, 255, 0.5);
+  background: #7d46cb;
   height: 160px;
 }
 
@@ -1563,6 +1564,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 @media (min-width: 991px) {
   #schedule .sub-heading {
     width: 75%;
+    color: #ff473d;
   }
 }
 
