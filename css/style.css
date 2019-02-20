@@ -1090,7 +1090,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-right: 1px solid #e0e5fa;
   border-bottom: 1px solid #e0e5fa;
   overflow: hidden;
-  background: #7d46cb;
+  background:rgba(66, 62, 66, 0.6);
   height: 160px;
 }
 
