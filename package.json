@@ -1,0 +1,26 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "Landing page for the ECU Spark 2019 event. Created using the bootstrap theme detailed below.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rowaul/spark-website-2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rowaul/spark-website-2019/issues"
+  },
+  "homepage": "https://github.com/rowaul/spark-website-2019#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "file-system": "^2.2.2",
+    "morgan": "^1.9.1",
+    "path": "^0.12.7"
+  }
+}
